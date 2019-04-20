@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Profile]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
